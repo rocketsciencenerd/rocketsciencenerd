@@ -2,7 +2,7 @@
 
 **Full Stack Engineer · DevSecOps · IoT · Aerospace Engineering · Public Health**
 
-I build systems at the intersection of hard domains — where software has to work reliably in aerospace, healthcare, and critical infrastructure. Currently contributing to projects at [NASA JSC H-3PO](https://github.com/jsc-h-3po) and [DigiChem Corp](https://github.com/DigiChem-Corp).
+I build systems at the intersection of hard domains — where software has to work reliably in aerospace, healthcare, and critical infrastructure. Currently contributing to projects at [NASA JSC H-3PO](https://github.com/jsc-h-3po).
 
 ---
 
@@ -29,7 +29,7 @@ I build systems at the intersection of hard domains — where software has to wo
 | [aws-iot-endpoint-with-static-ips](https://github.com/rocketsciencenerd/aws-iot-endpoint-with-static-ips) | AWS IoT with static IP endpoints for constrained networks |
 | [whohousing](https://github.com/rocketsciencenerd/whohousing) | Vue app for Whohousing LLC |
 
-*Most of my day-to-day work lives in private org repos at [@jsc-h-3po](https://github.com/jsc-h-3po) and [@DigiChem-Corp](https://github.com/DigiChem-Corp).*
+*Most of my day-to-day work lives in private org repos at [@jsc-h-3po](https://github.com/jsc-h-3po).*
 
 ---
 
